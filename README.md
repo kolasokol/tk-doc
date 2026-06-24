@@ -35,7 +35,6 @@ Perfect for technical documentation, API references, knowledge bases, and develo
 
 ### 🚀 Performance & Modern Stack
 
-
 - **Next.js 16** with App Router for optimal performance
 - **React 19** with Server Components
 - **TypeScript** for type safety
@@ -569,6 +568,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-Made with ❤️ by [dedkola](https://github.com/dedkola/)
+Made with ❤️ by [kolasokol](https://github.com/kolasokol/)
 
-[Documentation](https://doc.tkweb.site) • [GitHub](https://github.com/dedkola/tk-doc) • [Issues](https://github.com/dedkola/tk-doc/issues)
+[Documentation](https://doc.tkweb.site) • [GitHub](https://github.com/kolasokol/tk-doc) • [Issues](https://github.com/kolasokol/tk-doc/issues)
